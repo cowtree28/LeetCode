@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/cowtree28/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+## Array
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/cowtree28/LeetCode/tree/master/2058-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/cowtree28/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
