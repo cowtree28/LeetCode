@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/cowtree28/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1768-merge-strings-alternately](https://github.com/cowtree28/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Counting
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/cowtree28/LeetCode/tree/master/2058-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/cowtree28/LeetCode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
